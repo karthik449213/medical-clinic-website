@@ -13,8 +13,8 @@
   "@types/react": "^19.1.4",
   "@types/react-dom": "^19.1.5",
   "loader-utils": "^3.2.1",
-  "typescript": "^4.9.5" // Example: Using a version 4.x
-},
+  "typescript": "^4.9.5" 
+}, 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
